@@ -12,12 +12,12 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5"  alt="HTML" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3"  alt="CSS" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="javaScript"  alt="javaScript" width="50" height="50"/>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="react"  alt="react" width="50" height="50"/>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux"  alt="redux" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS"  alt="NodeJS" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="ExpressJS"  alt="ExpressJS" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" title="Sequelize"  alt="Sequelize" width="50" height="50"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="react"  alt="react" width="50" height="50"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux"  alt="redux" width="50" height="50"/>
     </div>
 </div>
 <!--
